@@ -57,7 +57,7 @@
 
 </div>
 
-![🍩 pulkit1635's Language Chart](https://github-readme-harshit.vercel.app/api/language-chart?username=pulkit1635&theme=light&size=300&chartType=donut&maxLanguages=8&minPercentage=5)<!-- Animated Progress Widget is temporarily disabled -->## Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
